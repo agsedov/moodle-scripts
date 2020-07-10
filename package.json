@@ -1,0 +1,17 @@
+{
+  "name": "moodle-loader",
+  "version": "1.0.0",
+  "description": "script to load and process student assignments",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moodle"
+  ],
+  "author": "agsedov",
+  "license": "ISC",
+  "dependencies": {
+    "moodle-client": "^0.5.2"
+  }
+}
